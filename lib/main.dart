@@ -155,12 +155,3 @@ class _MyAppState extends State<MyApp> {
         ));
   }
 }
-
-/*
-onPressed: () {
-                if (_questionIndex == 1) _totalScore -= num0;
-                if (_questionIndex == 2) _totalScore -= num1;
-                if (_questionIndex == 3) _totalScore -= num2;
-                if (_questionIndex == 4) _totalScore -= num3;
-                if (_questionIndex == 5) _totalScore -= num4;
-*/
